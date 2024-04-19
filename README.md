@@ -54,15 +54,26 @@ Nessa aula veremos?
 * [Linhas de comando](/conteudo/01-sobre-linha-de-comando.md)
   * [O que é ?](/conteudo/01-sobre-linha-de-comando.md/#o-que-é-linha-de-comando)
   * [Comandos básicos](/conteudo/01-sobre-linha-de-comando.md/#comandos-básicos-do-terminal)
-* [Git](#git)
-  * [Versionando projetos antes do git]()
-  * [O que é o Git?]()
-* [Github](#github)
-  * [O que é GitHub?](#o-que-é-github?)
-  * [Git x Github]()
+* [Git](./conteudo/02-sobre-git.md)
+  * [O que é git ?](./conteudo/02-sobre-git.md/#o-que-é-git)
+  * [Por que é importante ?](#por-que-é-importante-)
   * [Instalação](#instalação)
   * [Git Bash](#git-bash)
+* [Linhas de comando Git](./conteudo/03-sobre-linhas-de-comando-git.md)
+  * [Comandos](./conteudo/03-sobre-linhas-de-comando-git.md/#comandos)
+  * [Commits semânticos](./conteudo/03-sobre-linhas-de-comando-git.md/#commits-semânticos) 
+* [Github](./conteudo/04-sobre-github.md)
+  * [Disponibilizar o projeto para o mundo](./conteudo/04-sobre-github.md/#disponibilizar-o-projeto-para-o-mundo)
+  * [Github](./conteudo/04-sobre-github.md/#github)
+  * [Diferenaça entre git e github](./conteudo/04-sobre-github.md/#diferença-entre-git-e-github)
+  * [Branchs](./conteudo/04-sobre-github.md/#branchramificação)
+* [Fork](./conteudo/05-sobre-fork.md)
+  * [O que é fork e as diferenças com clone](./conteudo/05-sobre-fork.md/#o-que-é-fork-e-as-diferenças-com-clone)
+  * [Por que é importante ?](./conteudo/05-sobre-fork.md/#por-que-é-importante-)
+  * [Como fazer](./conteudo/05-sobre-fork.md/#como-fazer)
+  * [Fluxo de trabalho com repositório fork](./conteudo/05-sobre-fork.md/#fluxo-de-trabalho-com-repositório-fork)
 * [Links Úteis](#links-úteis)
+* [Professora](#professora)
 
 ## Projeto Final
 
@@ -77,9 +88,7 @@ Nessa aula veremos?
 - [Padrões de commit semântico](https://github.com/iuricode/padroes-de-commits)
 - [Sintaxe de Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-## Referencias / Materiais complementares
-
-### videos
+#### videos
 - [O QUE É GIT E GITHUB? - definição e conceitos importantes 1/2](https://www.youtube.com/watch?v=DqTITcMq68k)
 - [COMO USAR GIT E GITHUB NA PRÁTICA! - desde o primeiro commit até o pull request! 2/2](https://www.youtube.com/watch?v=UBAX-13g8OM)
 - [Como personalizar o seu perfil no Github (Readme)](https://www.youtube.com/watch?v=TsaLQAetPLU)
@@ -90,18 +99,25 @@ Nessa aula veremos?
 - [Tutorial Git e Github #02](https://www.youtube.com/watch?v=HXWFZK1Fnpo&list=PLb8MLffwd1Z7aZaX9eH5pnx3TVaf8GyyR&index=2)
 - [Explicação de Branch no GIT depois de jogar GTA](https://www.youtube.com/watch?v=r3Jk48r7ubc)
 
-### tutoriais
+#### tutoriais
 - [freeCodeCamp](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
 - [Medium](https://medium.com/blacktech/introdu%C3%A7%C3%A3o-%C3%A0-introdu%C3%A7%C3%A3o-ao-git-3557cab647b9)
 - [Guia Prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
-### Jogos
+#### Jogos
 - [Oh my git](https://ohmygit.org/)
 - [Learning branch](https://learngitbranching.js.org/?locale=pt_BR)
 
-### Curso Free
+#### Curso Free
 - [Git e Github para Iniciantes](https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
 - [Curso Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+----
+### Professora ✨
+- 📩  sampaioaanaluiza@gmail.com
+- 📸  [@analu.io](https://www.instagram.com/analu.io/)
+- 📲   [linkdein](https://www.linkedin.com/in/sampaioaanaluiza/)
+- 👨‍💻  [github](https://github.com/analuizasampaio)
+
 
 <br>
 _Vai incrível caminharmos juntas! Qualquer dúvida ou sugestão, fala comigo!!!_

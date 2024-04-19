@@ -10,6 +10,7 @@
 - [Instalação](#instalação)
 - [Git Bash](#git-bash)
 
+
 ### O que é git ?
 
 [Git](https://git-scm.com/) é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software para registrar o histórico de edições dos arquivos.

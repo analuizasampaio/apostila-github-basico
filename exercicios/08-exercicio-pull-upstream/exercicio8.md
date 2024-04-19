@@ -82,3 +82,7 @@ Fazendo assim, sua main vai sempre estar com o código da professora, correçõe
 Estou enviando **[aqui](https://jaimeneeves.medium.com/atualizando-seu-fork-do-github-1e2a78ee4cbf)** esse tutorial para quem quer configurar o seu remote local e fazer pulls.
 
 O blog do [atlassian](https://www.atlassian.com/br/git/tutorials/syncing) tem um conteúdo legal sobre o git, mesmo sendo uma plataforma com o visual um pouco diferente do github que usamos, os comandos são os mesmos, então valem para as duas plataformas.
+
+> Agora que você aprendeu tudo isso, o próprio github tem uma forma mais facil de se atualizar o fork,só clicar em `sync fork`😂
+
+<img src="../../imgs/fork/fork-sync.png"  />

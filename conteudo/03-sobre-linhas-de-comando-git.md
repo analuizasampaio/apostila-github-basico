@@ -2,10 +2,15 @@
 
 # Linha de comando no Git
 
+## Índice
+- [Comandos](#comandos)
+- [Commits semânticos](#commits-semânticos)
+
 <img src="../imgs/cli/cli.gif" alt="Logo do git" />
 
-  ### **Comandos**
+### Comandos
   Vamos ver alguns comandos para utilizar o [Github](https://github.com/) a partir do `Git`
+
 
   Comando                         | Descrição
 --------------------------------|-------------------------------------------------------
@@ -45,7 +50,8 @@ git diff                        | mostra no terminal a diferença entre os arqui
 
   * **Pull Request(PR)**: solicitação de dar merge da sua branch em um projeto de outra pessoa
 
-  ### **Commits semânticos**
+
+### Commits semânticos
 
   **Commit semântico** (ou *`conventional commit`*) é a prática de *PADRONIZAÇÃO* das mensagens de `commits` dentro de um projeto de desenvolvimento de software.
 
@@ -61,7 +67,5 @@ git diff                        | mostra no terminal a diferença entre os arqui
   - O Conventional Commit encoraja a se realizar mais commits de tipos específicos, por exemplo correções
   - A flexibilidade do `Conventional Commits` permite que sua equipe crie seus próprios tipos e altere ao longo do tempo
 
-## Vamos praticar?
-- [ ] Exercicio 1[](/exercicios/02-exercicio-git-config/exercicio2.md)
 
-[<- Sobre Linhas de Comando](./01-sobre-linha-de-comando.md) | [Sobre linha de comando no git ->](./03-sobre-linhas-de-comando-git.md)
+[<- Sobre Git](./02-sobre-git.md) | [Sobre Github ->](./04-sobre-github.md)
