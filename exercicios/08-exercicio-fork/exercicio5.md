@@ -1,0 +1,26 @@
+### Contribuindo com um projeto da Reprograma
+- Entrar o repositório: https://github.com/analuizasampaio/CF10-T2-Modulo-II-Github
+- Copiar o link HTTP que aparece ao clicar no botão verde ***Clone or download***.
+- Na sua máquina: abrir o Git Bash clicando com o botão direito do mouse de dentro da pasta onde deseja clonar o repositório (*Git Bash here*), ou navegando pelo Git Bash até a pasta desejada (`cd nomeDaPasta`).
+- `git clone https://github.com/analuizasampaio/CF10-T2-Modulo-II-Github`
+- `cd mentoria-backend`: para entrar na pasta.
+- `ls`: para listar o que tem dentro da pasta.
+- `git branch -a`: para listar as branch's que tem nesse projeto.
+- `git checkout -b ex-aula-seuNome`: para ir para uma branch nova chamada ex-aula-seuNome.
+- `code .`: para abrir o VSCode nessa pasta.
+
+- Salve a alteração e verifique no navegador se está correto.
+- Volte para o Git Bash dentro dessa pasta.
+- `git diff`: verique o que foi modificado.
+- `git status`: verifique o status do repositório atual.
+- `git add --all`: adicione todos os arquivos que foram modificados.
+- `git commit -m "Mensagem de bom senso"`: adicionando a mensagem do que foi modificado.
+- `git remote -v`: verifique se o endereço do repositório remoto. (Neste caso, o endereço do remoto chamado `origin` já veio quando você fez o clone do repositório).
+- `git push origin ex-aula-seuNome`: envie para o repositório remoto as alterações da branch `ex-aula-seuNome`.
+- Verifique no GitHub se sua alteração foi enviada com sucesso. Veja se sua branch está no repositório
+- Clicar na aba **Pull requests** do repositório no GitHub.
+- Clicar em **Compare & pull request** e verifique as alterações no código.
+- **base: main <= compare: ex-aula-seuNome**: Criar o **pull request** verificando se está indo da sua branch `ex-aula-seuNome` para a branch main.
+- Solicitar a revisão de código para a professora 
+- Aguardar a aprovação da sua solicitação.
+- A professora fará o **merge** da sua branch `ex-aula-seuNome` para a `main`.
