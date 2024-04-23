@@ -12,7 +12,9 @@
 
 ### O que é linha de comando ?
 
-É aquela tela preta que aparece nos filmes, normalmente com alguém hackeando algum sistema. Mexer com o terminal assusta um pouco porque ele não é nem um pouco visual. Mas é muito simples mexer nele. Sabe quando a gente arrasta arquivos para uma pasta ou cria uma pasta nova? No terminal você faz tudo isso também, mas sem interface gráfica. A gente insere comandos, e ele executa.
+A linha de comando é uma interface de texto que permite aos usuários interagir com o computador por meio de comandos de texto. Em vez de usar uma interface gráfica, os usuários digitam instruções no terminal para executar tarefas, gerenciar arquivos, instalar programas e muito mais. Ela oferece controle detalhado sobre o sistema, eficiência em tarefas específicas e acesso a funções avançadas. Nos sistemas Unix-like e macOS, é acessada pelo terminal, enquanto no Windows é chamada de Prompt de Comando ou PowerShell.
+
+Ou seja, é aquela tela preta que aparece nos filmes, normalmente com alguém hackeando algum sistema. Mexer com o terminal assusta um pouco porque ele não é nem um pouco visual. Mas é muito simples mexer nele. Sabe quando a gente arrasta arquivos para uma pasta ou cria uma pasta nova? No terminal você faz tudo isso também, mas sem interface gráfica. A gente insere comandos de texto, e ele executa.
 
 ### Por que é importante ?
 
@@ -53,4 +55,4 @@ Esses comandos servem para para listar arquivos e navegar entre pastas dentro do
 
 Muitos desses comandos serão usados no git, mas para saber os exclusivos do git e github procure [sobre linhas de comando git](/conteudo/03-sobre-linhas-de-comando-git.md)
 
-[<- Conceitos Introdutórios](/conteudo/00-conceitos-introdutorios.md) | [Mais sobre Git ->](/conteudo/02-sobre-git.md)
+[<- Conceitos Introdutórios](./00-conceitos-introdutorios.md) | [Mais sobre Git ->](./02-sobre-git.md)

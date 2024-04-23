@@ -77,4 +77,4 @@ Branches são versões alternativas de um repositório de código. Cada branch r
 [+ sobre branches](https://www.atlassian.com/br/git/tutorials/using-branches#:~:text=O%20comando%20git%20branch%20tamb%C3%A9m,%C3%A0%20configura%C3%A7%C3%A3o%20do%20reposit%C3%B3rio%20local.&text=Este%20comando%20vai%20enviar%20uma,experiment%20para%20o%20reposit%C3%B3rio%20remoto%20.)
 
 
-[<- Sobre linha de comando](sobre-linha-de-comando.md) | [Sobre fork ->](sobre-fork.md)
+[<- Sobre linha de comando](./03-sobre-linhas-de-comando-git.md) | [Sobre fork ->](./05-sobre-fork.md)

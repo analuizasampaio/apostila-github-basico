@@ -62,4 +62,4 @@
 - *Itálico*: Para itálico, utilize um asterisco ou underscore (`*texto*` ou `_texto_`).
 - Emojis: Utilize emojis copiando caracteres de emoji ou utilizando códigos de emoji em Markdown (ex.: `:smile:` para 😄).
 
-[<- Voltar para o início](../README.md) | [Sobre linhas de comando ->](/conteudo/01-sobre-linha-de-comando.md)
+[<- Voltar para o início](../README.md) | [Sobre linhas de comando ->](./01-sobre-linha-de-comando.md)

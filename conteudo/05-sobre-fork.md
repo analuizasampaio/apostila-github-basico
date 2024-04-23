@@ -60,4 +60,4 @@ Depois de escolher a pasta onde quer clonar, abra o git bash/terminal nela e exe
 - [ ] [Exercicio 7](/exercicios/07-exercicio-fork/exercicio7.md)
 - [ ] [Exercicio 8](/exercicios/08-exercicio-pull-upstream/exercicio8.md)
 
-[<- Sobre Github](sobre-linha-de-comando.md) | [Atividade para casa ->](../exercicios/09-exercicio-da-semana/exercicio-da-semana.md)
+[<- Sobre Github](./03-sobre-linhas-de-comando-git.md) | [Atividade para casa ->](../exercicios/09-exercicio-da-semana/exercicio-da-semana.md)
