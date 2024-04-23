@@ -19,3 +19,5 @@ Enviar o seu repositório local para um site de hospedagem de repositórios (ex:
 **Observação**
 Caso precise mudar o endereço do seu repositorio online é só dar
 `git remote --set-url origin novaURL`
+
+> Ele pode pedir a sua senha nessa ponto e um erro de autenticação pode aparecer. Fique atenta a [possivel solução](../../conteudo/solucao-erro-autentificacao-gitbash.md)

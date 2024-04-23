@@ -46,7 +46,7 @@ Aí podemos ver como o repositório com fork fica diferente do repositorio origi
 
 - Para fazermos o processo de solicitação de mudanças utilizando um repositorio com fork, começamos igual: Fazendo clone. Porém dessa vez faremos clone do repositório gerado a partir do fork:
 
-<img src="../imgs/fork/fork-clone.png"" />
+<img src="../imgs/fork/fork-clone.png" />
 
 Selecione a pasta que você quer clonar seu repositório com fork e abra o terminal/git bash.
 **Obs**: Como o repositorio com fork gerará um projeto com o mesmo nome de pasta do original, o ideal é clonar em uma pasta diferente que não exista o clone do repositorio original, pois caso você tente clonar o repositorio com fork na mesma pasta que existe o projeto original gerará esse erro:
