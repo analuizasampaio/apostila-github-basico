@@ -11,4 +11,4 @@
 - `git pull origin main`: atualizando a branch `main` conforme endereço `origin`.
 - Visualizar as atualizações no projeto.
 
-[<- Sobre Github](../../conteudo/04-sobre-github.md)
+[<- Exercício 4](../04-exercicio-clone/exercicio4.md) | [Exercício 6 ->](../06-exercicio-branchs/exercicio6.md)

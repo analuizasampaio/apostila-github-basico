@@ -8,4 +8,4 @@
 - `cd nome-do-repositorio`: para entrar na pasta.
 - `ls`: para listar o que tem dentro da pasta.
 
-[<- Exercício 2](../02-exercicio-git-config/exercicio2.md) | [Exercício 4 ->](../04-exercicio-clone/exercicio4.md)
+[<- Exercício 3](../03-exercicio-local-remoto/exercicio3.md) | [Exercício 5 ->](../05-exercicio-pull/exercicio5.md)

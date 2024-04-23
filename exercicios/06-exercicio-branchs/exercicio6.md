@@ -5,4 +5,4 @@
 criar branch com seu nome
 - `git  checkout -b NOME-DA-BRANCH`
 
-[<- Exercício 2](../02-exercicio-git-config/exercicio2.md) | [Exercício 4 ->](../04-exercicio-clone/exercicio4.md)
+[<- Exercício 5](../05-exercicio-pull/exercicio5.md) | [Exercício 7 ->](../07-exercicio-fork/exercicio7.md)

@@ -55,10 +55,10 @@ git config --global --unset user.email “email@gmail.com”
 - [Fonte: Ratamero](http://www.ratamero.com/blog/git-e-github-parte-1-o-que-sao-e-como-usar/)
 
 #### Vamos praticar?
-- [ ] [Exercício2](/exercicios/02-exercicio-git-config/exercicio2.md)
-- [ ] [Exercício3](/exercicios/03-exercicio-local-remoto/exercicio3.md)
-- [ ] [Exercício4](/exercicios/04-exercicio-clone/exercicio4.md)
-- [ ] [Exercício5](/exercicios/05-exercicio-pull/exercicio5.md)
+- [ ] [Exercício 2](/exercicios/02-exercicio-git-config/exercicio2.md)
+- [ ] [Exercício 3](/exercicios/03-exercicio-local-remoto/exercicio3.md)
+- [ ] [Exercício 4](/exercicios/04-exercicio-clone/exercicio4.md)
+- [ ] [Exercício 5](/exercicios/05-exercicio-pull/exercicio5.md)
 
 ### Branch(ramificação)
 ![img.png](/imgs/git-flow.png)
@@ -72,7 +72,7 @@ Branches são versões alternativas de um repositório de código. Cada branch r
 - Controle de Qualidade: Ajuda na revisão e aprovação de alterações antes de mesclá-las ao código principal (branch master ou main).
 
 #### Vamos praticar?
-- [ ] [Exercício6](/exercicios/06-exercicio-branchs/exercicio6.md)
+- [ ] [Exercício 6](/exercicios/06-exercicio-branchs/exercicio6.md)
 
 [+ sobre branches](https://www.atlassian.com/br/git/tutorials/using-branches#:~:text=O%20comando%20git%20branch%20tamb%C3%A9m,%C3%A0%20configura%C3%A7%C3%A3o%20do%20reposit%C3%B3rio%20local.&text=Este%20comando%20vai%20enviar%20uma,experiment%20para%20o%20reposit%C3%B3rio%20remoto%20.)
 
