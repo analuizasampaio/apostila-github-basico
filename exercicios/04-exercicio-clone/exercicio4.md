@@ -1,3 +1,5 @@
+[<- Voltar Sobre Github](../../conteudo/04-sobre-github.md#vamos-praticar)
+
 ### Clonando repositórios da aula
 - Entrar o GitHub da aula: https://github.com/analuizasampaio/CF10-T2-Modulo-II-Github
 - Copiar o link HTTP que aparece ao clicar no botão verde ***Clone or download***.
@@ -5,3 +7,5 @@
 - `git clone https://github.com/analuizasampaio/CF10-T2-Modulo-II-Github.git`
 - `cd nome-do-repositorio`: para entrar na pasta.
 - `ls`: para listar o que tem dentro da pasta.
+
+[<- Exercício 2](../02-exercicio-git-config/exercicio2.md) | [Exercício 4 ->](../04-exercicio-clone/exercicio4.md)

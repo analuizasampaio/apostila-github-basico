@@ -76,6 +76,6 @@ Abrir o git bash:
 Para maiores informações sobre como configurar o git no mac, entre na parte de [config do mac](./configuracoes-mac.md).
 
 ## Vamos praticar?
-- [ ] [Exercicio 1](../exercicios/01-exercicio-bash/exercicio1.md)
+- [ ] [Exercício1](../exercicios/01-exercicio-bash/exercicio1.md)
 
 [<- Sobre Linhas de Comando](./01-sobre-linha-de-comando.md) | [Sobre linha de comando no git ->](./03-sobre-linhas-de-comando-git.md)

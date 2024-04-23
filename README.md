@@ -46,28 +46,28 @@ Nosso projeto final consistirá na criação de um repositório no GitHub conten
 
 ### Resumo
 Nessa aula veremos? 
-* [Conceitos Introdutórios](/conteudo/00-conceitos-introdutorios.md)
+* [00.Conceitos Introdutórios](/conteudo/00-conceitos-introdutorios.md)
   * [O que é programação?](/conteudo/00-conceitos-introdutorios.md/#o-que-é-programação)
   * [ Back, Front, Fullstack e Mobile](/conteudo/00-conceitos-introdutorios.md/#back-front-fullstack-e-mobile)
   * [Algoritmo e Pseudocódigo](/conteudo/00-conceitos-introdutorios.md/#algoritmo-e-pseudocódigo)
   * [Markdown](/conteudo/00-conceitos-introdutorios.md/#markdown)
-* [Linhas de comando](/conteudo/01-sobre-linha-de-comando.md)
+* [01.Linhas de comando](/conteudo/01-sobre-linha-de-comando.md)
   * [O que é ?](/conteudo/01-sobre-linha-de-comando.md/#o-que-é-linha-de-comando)
   * [Comandos básicos](/conteudo/01-sobre-linha-de-comando.md/#comandos-básicos-do-terminal)
-* [Git](./conteudo/02-sobre-git.md)
+* [02.Git](./conteudo/02-sobre-git.md)
   * [O que é git ?](./conteudo/02-sobre-git.md/#o-que-é-git)
   * [Por que é importante ?](#por-que-é-importante-)
   * [Instalação](#instalação)
   * [Git Bash](#git-bash)
-* [Linhas de comando Git](./conteudo/03-sobre-linhas-de-comando-git.md)
+* [03.Linhas de comando Git](./conteudo/03-sobre-linhas-de-comando-git.md)
   * [Comandos](./conteudo/03-sobre-linhas-de-comando-git.md/#comandos)
   * [Commits semânticos](./conteudo/03-sobre-linhas-de-comando-git.md/#commits-semânticos) 
-* [Github](./conteudo/04-sobre-github.md)
+* [04.Github](./conteudo/04-sobre-github.md)
   * [Disponibilizar o projeto para o mundo](./conteudo/04-sobre-github.md/#disponibilizar-o-projeto-para-o-mundo)
   * [Github](./conteudo/04-sobre-github.md/#github)
-  * [Diferenaça entre git e github](./conteudo/04-sobre-github.md/#diferença-entre-git-e-github)
+  * [Diferença entre git e github](./conteudo/04-sobre-github.md/#diferença-entre-git-e-github)
   * [Branchs](./conteudo/04-sobre-github.md/#branchramificação)
-* [Fork](./conteudo/05-sobre-fork.md)
+* [05.Fork](./conteudo/05-sobre-fork.md)
   * [O que é fork e as diferenças com clone](./conteudo/05-sobre-fork.md/#o-que-é-fork-e-as-diferenças-com-clone)
   * [Por que é importante ?](./conteudo/05-sobre-fork.md/#por-que-é-importante-)
   * [Como fazer](./conteudo/05-sobre-fork.md/#como-fazer)
@@ -120,5 +120,5 @@ Nessa aula veremos?
 
 
 <br>
-_Vai incrível caminharmos juntas! Qualquer dúvida ou sugestão, fala comigo!!!_
+_Vai ser incrível caminharmos juntas! Qualquer dúvida ou sugestão, fala comigo!!!_
 <br>

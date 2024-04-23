@@ -1,3 +1,5 @@
+[<- Voltar Sobre Fork](../../conteudo/05-sobre-fork.md/#vamos-praticar)
+
 ### Contribuindo com um projeto
 - Entrar o repositório: https://github.com/analuizasampaio/CF10-T2-Modulo-II-Github
 - Copiar o link HTTP que aparece ao clicar no botão verde ***Clone or download***.
@@ -24,3 +26,5 @@
 - Solicitar a revisão de código para a professora 
 - Aguardar a aprovação da sua solicitação.
 - A professora fará o **merge** da sua branch `ex-aula-seuNome` para a `main`.
+
+[<- Exercício 6](../06-exercicio-branchs/exercicio6.md) | [Exercício 8 ->](../08-exercicio-pull-upstream/exercicio8.md)

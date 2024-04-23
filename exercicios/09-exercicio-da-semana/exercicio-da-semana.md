@@ -1,13 +1,13 @@
 ## Exercício de Git
 
-No exercicio de hoje vamos personalizar o perfil do github de vocês e também escrever o motivo pelo qual vocês decidiram iniciar na área de tecnologia 
+No Exercíciode hoje vamos personalizar o perfil do github de vocês e também escrever o motivo pelo qual vocês decidiram iniciar na área de tecnologia 
 
 ### Materiais Necessários:
 - Git instalado no computador.
 - Uma conta no GitHub.
 
 ### Passos para o Exercício:
-- [ ] crie um repositorio publico com o nome do seu usuario do github, construa sua biografia usando o arquivo README.md. Como fizemos no [exercicio 3](/exercicios/03-exercicio-local-remoto/exercicio3.md)
+- [ ] crie um repositorio publico com o nome do seu usuario do github, construa sua biografia usando o arquivo README.md. Como fizemos no [Exercício3](/exercicios/03-exercicio-local-remoto/exercicio3.md)
 
  - > É comum as pessoas desenvolvedoras usarem markdown quando documentar nossos projetos. Você pode usar esse editor para facilitar o processo https://stackedit.io/app#
 - [ ] crie sua branch
@@ -16,3 +16,5 @@ No exercicio de hoje vamos personalizar o perfil do github de vocês e também e
 - [ ] faça o fluxo `add, commit, push`
 - [crie um pull request](./instrucoes-pull-request.md)
 - coloque o link do PR na entrega da semana no classroom
+
+[<- Exercício 8](../08-exercicio-pull-upstream/exercicio8.md) | [Como fazer pull request ->](./instrucoes-pull-request.md)

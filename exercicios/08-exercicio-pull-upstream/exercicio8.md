@@ -1,3 +1,5 @@
+[<- Voltar Sobre Fork](../../conteudo/05-sobre-fork.md/#vamos-praticar)
+
 ### Contribuindo com um projeto 
 
 
@@ -86,3 +88,6 @@ O blog do [atlassian](https://www.atlassian.com/br/git/tutorials/syncing) tem um
 > Agora que você aprendeu tudo isso, o próprio github tem uma forma mais facil de se atualizar o fork,só clicar em `sync fork`😂
 
 <img src="../../imgs/fork/fork-sync.png"  />
+
+
+[<- Exercício 7](../07-exercicio-fork/exercicio7.md) | [Exercício da Semana ->](../09-exercicio-da-semana/exercicio-da-semana.md)

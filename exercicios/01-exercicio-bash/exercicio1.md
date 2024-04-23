@@ -1,3 +1,5 @@
+[<- Voltar Sobre Git](../../conteudo/02-sobre-git.md#vamos-praticar) 
+
 ### Criando e deletando pastas e arquivos pelo terminal Git Bash
 
 #### a) Crie uma pasta, entre na pasta, crie um arquivo de texto e insira uma frase
@@ -23,3 +25,5 @@ Seguem abaixo algumas ações básicas para nos habituarmos com o terminal Git B
 - `echo`: *echo*, eco que cria um arquivo. Precisa indicar o conteúdo e o nome do arquivo. Ex: `echo "oi" > index.html`
 - `rm`: *remove*, deleta um arquivo. Precisa indicar o nome do arquivo. Ex: `rm index.html`
 - `rm -r` ou `rm --recursive`: deleta uma pasta. Precisa indicar o nome da pasta e deletar recursivamente. Ex: `rm -r nomeDaPasta`
+
+ [Exercício 2 ->](../02-exercicio-git-config/exercicio2.md)

@@ -1,3 +1,5 @@
+[<- Voltar Sobre Github](../../conteudo/04-sobre-github.md#vamos-praticar)
+
 ### Configurando o Git com seu user.name e user.email
 
 Você deve ter instalado o Git na sua máquina.
@@ -15,3 +17,5 @@ Para verificar se foi configurado:
 Para remover usuário:
 - `git config --global --unset user.name "Ana Luiza Sampaio"`
 - `git config --global --unset user.email "sampaioaanaluiza@gmail.com""`
+
+[<- Exercício 1](../01-exercicio-bash/exercicio1.md) | [Exercício 3 ->](../03-exercicio-local-remoto/exercicio3.md)

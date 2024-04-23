@@ -1,3 +1,5 @@
+[<- Voltar Sobre Github](../../conteudo/04-sobre-github.md#vamos-praticar)
+
 ### Rastreando seu projeto localmente e subindo para o GitHub
 
 Seus dados devem estar previamente configurados no Git da sua máquina.
@@ -21,3 +23,5 @@ Caso precise mudar o endereço do seu repositorio online é só dar
 `git remote --set-url origin novaURL`
 
 > Ele pode pedir a sua senha nessa ponto e um erro de autenticação pode aparecer. Fique atenta a [possivel solução](../../conteudo/solucao-erro-autentificacao-gitbash.md)
+
+[<- Exercício 2](../02-exercicio-git-config/exercicio2.md) | [Exercício 4 ->](../04-exercicio-clone/exercicio4.md)

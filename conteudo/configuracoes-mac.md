@@ -26,3 +26,5 @@ git config --global core.excludesfile ~/.gitignore
 No nosso gitignore já tem configurado para não adicionar esse arquivo no rastreio do git.
 
 - Retirado de: [pine](https://pineco.de/snippets/globally-gitignore-the-ds_store-file/)
+
+[<- Sobre Git](./02-sobre-git.md)

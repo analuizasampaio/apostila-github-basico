@@ -57,7 +57,7 @@ fatal: destination path 'CF10-T2-Modulo-II-Github' already exists and is not an 
 Depois de escolher a pasta onde quer clonar, abra o git bash/terminal nela e execute o clone,
 
 #### Vamos praticar?
-- [ ] [Exercicio 7](/exercicios/07-exercicio-fork/exercicio7.md)
-- [ ] [Exercicio 8](/exercicios/08-exercicio-pull-upstream/exercicio8.md)
+- [ ] [Exercício7](/exercicios/07-exercicio-fork/exercicio7.md)
+- [ ] [Exercício8](/exercicios/08-exercicio-pull-upstream/exercicio8.md)
 
-[<- Sobre Github](./03-sobre-linhas-de-comando-git.md) | [Atividade para casa ->](../exercicios/09-exercicio-da-semana/exercicio-da-semana.md)
+[<- Sobre Github](./04-sobre-github.md) | [Atividade para casa ->](../exercicios/09-exercicio-da-semana/exercicio-da-semana.md)
