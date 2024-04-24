@@ -38,6 +38,7 @@ Esses comandos servem para para listar arquivos e navegar entre pastas dentro do
 
 | Comando | Descrição | Exemplo de Uso |
 |---------|-----------|----------------|
+| `mkdir` | Cria um nova pasta. | `mkdir onva_pasta` |
 | `touch` | Cria um novo arquivo. | `touch novo_arquivo.txt` |
 | `cat`   | Exibe o conteúdo de um arquivo. | `cat arquivo.txt` |
 | `cp`    | Copia um arquivo ou diretório. | `cp arquivo.txt destino/` |
