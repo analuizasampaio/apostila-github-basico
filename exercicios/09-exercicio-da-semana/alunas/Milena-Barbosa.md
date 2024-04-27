@@ -1,6 +1,6 @@
 ## Milena Barbosa 
 
-![Milena-Barbosa](https://drive.google.com/file/d/1V5nleqBYW4iYENI9iaiIuXvaaVQsU7Os/view?usp=sharing)
+![Milena-Barbosa](https://media.licdn.com/dms/image/D4D03AQESLGPbstw9Vg/profile-displayphoto-shrink_800_800/0/1680822861018?e=1719446400&v=beta&t=87ruG8ZvoxYTJ7E5V_nYiK4UCIyysCLHFv_0MjqlLdY)
 
 ## Por que quero entrar na área de tecnologia? 
 
