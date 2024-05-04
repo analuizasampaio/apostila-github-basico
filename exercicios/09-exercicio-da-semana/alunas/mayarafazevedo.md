@@ -1,9 +1,8 @@
-## Ana Luiza Sampaio
+## Mayara Santos
 
-![Analu](https://raw.githubusercontent.com/analuizasampaio/analuizasampaio/main/images/perfil.png)
 
-Você pode encontrar meu perfil por [aqui](https://github.com/analuizasampaio/analuizasampaio)
+Você pode encontrar meu perfil por [aqui](https://github.com/mayarafazevedo)
 
 ## Porque quero entrar na área de tecnologia:
+Eu sou da área de educação e comecei na área de tecnologia a partir da possibilidade de melhores salários e melhores benefícios de emprego. Depois de tentar inúmeras vezes me sentir realizada na sala de aula, comecei na pandemia a pesquisar vários cursos e comecei com Costumer Sucess, depois fui pra UX design e writing. 
 
-Escreve aqui o que te motiva, não precisa ser muito complexo, mas pra nos dias dificeis você lembrar porquê você começou.
