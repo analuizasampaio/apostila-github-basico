@@ -1,6 +1,4 @@
-# Ciclo Formativo PretaLab Básico | Módulo II - Github 🚀 
-
-![image](https://media.giphy.com/media/968taxwNaAXqZASdcn/giphy.gif)
+# Apostila Github Básico
 
 ## `Sobre o módulo` 
 Neste módulo, exploraremos os fundamentos do GitHub, proporcionando a vocês as habilidades necessárias para gerenciar repositórios, realizar commits e push, além de colaborar em projetos. Ao final deste curso, você será capaz de criar sua própria conta no GitHub e ter um repositório com commits e push realizados.
