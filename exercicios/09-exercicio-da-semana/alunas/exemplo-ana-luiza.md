@@ -1,9 +1,9 @@
-## Ana Luiza Sampaio
+## Grazielle Dias
 
-![Analu](https://raw.githubusercontent.com/analuizasampaio/analuizasampaio/main/images/perfil.png)
+![Analu] <(![alt text](image.png) )
 
-Você pode encontrar meu perfil por [aqui](https://github.com/analuizasampaio/analuizasampaio)
+Você pode encontrar meu perfil por [aqui](https://github.com/GrazielleDias27/CF10-T2-Modulo-II-Github )
 
 ## Porque quero entrar na área de tecnologia:
 
-Escreve aqui o que te motiva, não precisa ser muito complexo, mas pra nos dias dificeis você lembrar porquê você começou.
+Me motiva saber que eu sou capaz de trabalhar de forma que eu poss fazer mais os meus horarios, trabalhar usando meus conhecimentos, me possibilitando trabalhar em casa de forma mais confortavel. e  tecnologia é o futuro, é sem fronteiras. Quero expandir meus conhecimentos e ter novas oportunidades.
