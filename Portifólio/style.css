@@ -1,0 +1,141 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+
+}
+
+h2{
+    color: black;
+    text-align: start;
+    padding: 32px;
+}
+
+h1{
+    color: black;
+    text-align: start;
+    padding: 32px;
+}
+.header-menu{
+    background-color: #960101;
+    display: flex;
+    position: fixed;
+    width: 100%;
+    padding: 8px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    height: 10px;
+}
+.header-menu nav{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.lista-menu{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    list-style: none;
+    align-items: center;
+}
+.lista-menu li>a{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    text-decoration: inherit;
+}
+.principal{
+    display: flex;
+    background-color:#e7cccc;
+}
+.subcontainer-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.div-img{
+    position: center;
+    top: 20%;
+    left: 100%;
+}
+.texto-1{
+    padding: 32px;
+    position: center;
+    justify-content: center;
+}
+.principal-2{
+    display: flex;
+    background-color: antiquewhite;
+    color: black;
+    height: 100vh;
+    width: 100%;
+}
+.subcontainer-principal2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+.subcontainer-principal2 li>a{
+    font: size 18px;
+    text-decoration: inherit;
+
+}
+.lista-item{
+    padding: 32px;
+
+}
+.lista-item ul>li{
+    margin-bottom: 52px;
+}
+.principal-3{
+    display: flex;
+    background-color: #f18888;
+    height: 100%;
+    width: 100%;
+}
+.subcontainer-principal3{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+.subcontainer-principal3 li>a{
+    font-size: 18px;
+    text-decoration: inherit;
+}
+.footer{
+    background-color: #960101;
+    display: flex;
+    align-items: center;
+    height: 30vh;
+}
+.Contato{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
+.lista-footer{
+    color: black;
+    font-weight: 700;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+
+}
+.estilo-icon{
+    font-size: 22px;
+    margin-right: 10px;
+}
+.links{
+    color: rgb(255, 254, 254);
+    text-decoration: none;
+
+}
